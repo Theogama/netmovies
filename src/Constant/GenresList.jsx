@@ -1,9 +1,5 @@
 const genre= [
-<<<<<<< HEAD
-    
-=======
 
->>>>>>> c0dd9fa6f89fe6497dbec453aceb09f44e18e5bb
     {
       "id": 28,
       "name": "Action"
